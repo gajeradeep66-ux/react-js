@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'helvetica neue';
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: #212121;
+    color: aliceblue;
+}
+
+.data{
+    margin-top: 30px;
+}
+
+.num{
+    margin-top: 30px;
+}

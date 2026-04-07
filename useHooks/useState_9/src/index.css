@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'helvetica neue';
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #212121;
+    color: aliceblue;
+}
+
+.data1 button{
+    padding: 10px 20px;
+    margin: 20px;
+}
+
+h1{
+    background-color: #515151;
+    width: fit-content;
+    font-size: 100px;
+    padding: 10px 85px;
+    border-radius: 5px;
+    margin: 20px;
+}
